@@ -1,3 +1,23 @@
+
+Dieser Mod hat alle normalen Körper wie im Originalspiel, 
+verändert aber die Planetenmonde aller Planeten und auch die der Gasplaneten 
+(in meinem alten Mod gab es viel weniger Monde und weniger für Gasplaneten).  
+das bedeutet: Kontinentalplaneten usw. und auch Gasplaneten haben ihre Monde wie zuvor, 
+jedoch mit größerer Umlaufbahn und kleinerer Mondgröße.  
+
+Die Monde können keinen kleineren Durchmesser als 1600 erreichen, da sonst Schiffe und Stützpunkte im 
+Inneren der Monde auftauchen und manchmal nicht mit ihnen interagieren können (die Kolonisierung scheitert).  
+
+Die Monde, die sich geändert haben, haben im Namen ->Planetary<- Moon. Damit Sie sehen können, wann es funktioniert :-)
+
+P.S.: Das Stadtlicht wird wie im normalen Spiel sein. Wie bei jedem anderen Mod: 
+
+1. Mod aktivieren, dann 
+2.  Spiel neu starten!  Dann 
+3. ein neues Spiel starten
+
+-------
+
 This mod has all normal bodies like in the original game, but changes the planetary moons of all planets and also them from the gas planets (in my old mod there we much less moons and less for gas planets). 
 
 that means: continental and so on and also gas planets have their moons as before, but with a greater orbit and a smaller moon size.
@@ -14,4 +34,3 @@ As with every other mod:
 1. Activate mod then 
 2. restart the game! Then 
 3. start a new game
-
