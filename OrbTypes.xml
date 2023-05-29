@@ -2047,8 +2047,8 @@
     <ChildCountMaximum>1</ChildCountMaximum>
     <QualityRangeMinimum>0.2</QualityRangeMinimum>
     <QualityRangeMaximum>0.5</QualityRangeMaximum>
-    <OrbitalDistanceFromSunRatioMinimum>0.752</OrbitalDistanceFromSunRatioMinimum>
-    <OrbitalDistanceFromSunRatioMaximum>1</OrbitalDistanceFromSunRatioMaximum>
+    <OrbitalDistanceFromSunRatioMinimum>1</OrbitalDistanceFromSunRatioMinimum>
+    <OrbitalDistanceFromSunRatioMaximum>1.3</OrbitalDistanceFromSunRatioMaximum>
     <DiameterMinimum>4000</DiameterMinimum>
     <DiameterMaximum>6500</DiameterMaximum>
     <ResourceCountMinimum>0</ResourceCountMinimum>
